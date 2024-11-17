@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body {
+    background-color: rgb(241, 215, 176);
+}   
+#maincontent {
+    height: 450px;
+    width: 1030px;
+    color: rgba(165, 42, 42, 0.56);
+    border: 1.5px solid black;
+    padding: 15px 15px 15px 15px;
+    margin: 10px;
+}
+#photo {
+    height: 420px;
+    width: 420px;
+    background-image: url("imagee1.jpg");
+    background-size: cover;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+    left: 13px;
+    top: 100px;
+}
+#navbar {
+    color: rgb(58, 36, 25);
+    height: 50px;
+    background-color: #0f1111;
+    font-size: 25px;
+    color: #d9b99b;
+}
+#col {
+    margin-right: 200px;
+}
+a  :hover {
+    color : yellow;
+}
+#cont {
+    height: 420px;
+    width: 400px;
+    color: rgb(33, 14, 1);
+    font-size: 15px;
+    margin-left: 450px; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#name {
+    font-size: 27px;
+    /* position: absolute; */
+    color : rgb(33, 14, 1);
+    margin-left: 180px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fa-brands, .fa-solid {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+/* .fa-linkedin:hover {
+    background-color: rgb(67, 67, 240);
+    transform: translateY(4px);
+} */
