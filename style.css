@@ -17,7 +17,7 @@ body {
 #photo {
     height: 420px;
     width: 420px;
-    background-image: url("imagee1.jpg");
+    background-image: url("img1.jpg");
     background-size: cover;
     border: 1px solid black;
     border-radius: 50%;
